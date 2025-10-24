@@ -1,4 +1,4 @@
-# Pulse Cross Windoes Desktop App File Setup
+# Pulse Windows Desktop App File Setup
 
 Pulse is a cross-platform desktop application file setup that provides comprehensive system information for your computer. Effortlessly view hardware and software specifications, monitor device performance, and stay informed about your system configuration.
 
