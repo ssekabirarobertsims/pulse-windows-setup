@@ -1,6 +1,6 @@
-# System information Cross Platform Desktop App File Setup
+# Pulse Cross Windoes Desktop App File Setup
 
-System info is a cross-platform desktop application file setup that provides comprehensive system information for your computer. Effortlessly view hardware and software specifications, monitor device performance, and stay informed about your system configuration.
+Pulse is a cross-platform desktop application file setup that provides comprehensive system information for your computer. Effortlessly view hardware and software specifications, monitor device performance, and stay informed about your system configuration.
 
 ## Developer
 
@@ -8,8 +8,6 @@ System info is a cross-platform desktop application file setup that provides com
 - **GitHub:** https://github.com/ssekabirarobertsims
 - **Email:** ssekabirarobertsims.dev@gmail.com
 - **Role:** Lead Developer & Desktop and Web(applications & sites) Software Engineer
-
-## Quotes
 
 > "Knowledge is power. Stay informed about your system."  
 > — System info Team
